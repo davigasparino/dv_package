@@ -1,0 +1,23 @@
+{
+  "name": "dv_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davigasparino/dv_package.git"
+  },
+  "keywords": [
+    "dv",
+    "package"
+  ],
+  "author": "Davi Gasparino <dv.gasparino@gmail.com> (https://davigasparino.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davigasparino/dv_package/issues"
+  },
+  "homepage": "https://github.com/davigasparino/dv_package#readme"
+}
